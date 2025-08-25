@@ -1,2 +1,2 @@
-# SRINIVAS-MEDISETTI
-This is my first repo
+student-portel-demo
+Student portal demo
